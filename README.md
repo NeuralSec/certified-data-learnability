@@ -7,8 +7,15 @@ We use certified $(q,\eta)$-Learnability as a measurement of the effectiveness a
 ## **1. Environment setup**
 
 **Setup virtual environment and install necessary packages:**
+
+Required Python version:
+<div align="left">
+  
+  <a>![Python 3.11.4](https://img.shields.io/badge/Python-3.11.4-brightgreen.svg)</a>
+  
+</div>
+
 ```
-Python Version 3.11.4
 python -m venv pue-env
 source pue-env/bin/activate
 cd $repository_name
