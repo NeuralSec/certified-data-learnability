@@ -1,4 +1,14 @@
 ## The code of our paper "Provably Unlearnable Data Examples" (NDSS'25 Distinguished Paper Award)
+
+<p align="center">
+  <a href="https://neuralsec.github.io/projects/provably-unlearnable-data-examples/">
+    <img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge" alt="Project Page">
+  </a>
+  <a href="https://www.ndss-symposium.org/wp-content/uploads/2025-886-paper.pdf">
+    <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge" alt="Paper">
+  </a>
+</p>
+
 In this paper, we introduce the concept of certified learnability.
 Certified $(q,\eta)$-Learnability measures how learnable a dataset is by computing a probabilistic upper bound on the test performance of classifiers trained on this dataset, as long as those classifiers fall within a certified parameter set.
 We use certified $(q,\eta)$-Learnability as a measurement of the effectiveness and robustness of unlearnable examples, and propose Provably Unlearnable Examples (PUEs) which can lead to reduced $(q,\eta)$-Learnability when training classifiers on them.
