@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge" alt="Project Page">
   </a>
   <a href="https://www.ndss-symposium.org/wp-content/uploads/2025-886-paper.pdf">
-    <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge" alt="Paper">
+    <img src="https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge" alt="Paper">
   </a>
 </p>
 
